@@ -3,7 +3,6 @@ data/*
 raw_data/*
 raw_data_small/*
 meh/*
-processed_data/*
 .DS_Store
 .idea/*
 models/*

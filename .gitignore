@@ -1,0 +1,13 @@
+''
+data/*
+raw_data/*
+raw_data_small/*
+meh/*
+processed_data/*
+.DS_Store
+.idea/*
+models/*
+.ipynb_checkpoints/*
+venv/*
+.vscode/*
+fimea_lists/*.txt

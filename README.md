@@ -12,7 +12,7 @@ Vocabularies are intended to be expanded rarely, in large batches, and the proce
 
 #### Understand what can go wrong
 
-When you add a new word, Nettipuoskari tries to find different abbreviations for that word and put them all in the same basket. For most words this process works just fine, but some words are problematic. Let's declare 2 types of problems:
+When you add a new word, Lääketutka tries to find different abbreviations for that word and put them all in the same basket. For most words this process works just fine, but some words are problematic. Let's declare 2 types of problems:
 1. A basket contains words it’s not supposed to have (eg. basket for drug “valine” contains “valinta”, “valitsemismahdollisuudet”, “valikoiminen”, etc.)
 2. We may have 2 baskets which should be joined together, but are not (eg. “jomottaa” and “jomotus” may become separate baskets)
 
